@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HiddenValley</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="username">User Name</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="not_registered">Not Registered? Register Now!!</string>
+    <string name="log_in">LOG IN</string>
+    <string name="todo">TODO</string>
+</resources>
